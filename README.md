@@ -1,0 +1,1 @@
+This project deals with creating a Web-scrapper for various e-newspapers and then apply algorithms like text-summarization, catergorization of data based on title . The main purpose is to provide user a choice on which newspaper he wants his data to be from . Without being biased on particular newspaper.
